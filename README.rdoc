@@ -1,11 +1,9 @@
 README
 ==
 
-Overview
-===
-
 Home Page
 ====
+
 https://raw.githubusercontent.com/siquare/Test-generator/master/app/assets/images/example-1.png
 
 Question Set Page
@@ -21,24 +19,17 @@ https://raw.githubusercontent.com/siquare/Test-generator/master/app/assets/image
 Ruby version
 ===
 
-
-```rb
-$ ruby -v
-????
-```
+  $ ruby -v
+  ????
 
 === Database creation
 
-```
-$ ./bin/rake db:create
-```
+  $ ./bin/rake db:create
 
 === Database initialization
 
-```
-$ ./bin/rake db:migrate
-$ ./bin/rake db:seed
-```
+  $ ./bin/rake db:migrate
+  $ ./bin/rake db:seed
 
 === How to run the test suite
 
