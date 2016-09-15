@@ -1,12 +1,28 @@
-== README
+README
+==
 
-![eyecatch](https://raw.github.com/wiki/siquare/Test-generator/app/assets/images/example-1.jpg)
-![eyecatch](https://raw.github.com/wiki/siquare/Test-generator/app/assets/images/example-2.jpg)
-![eyecatch](https://raw.github.com/wiki/siquare/Test-generator/app/assets/images/example-3.jpg)
+Overview
+===
 
-=== Ruby version
+Home Page
+====
+https://raw.githubusercontent.com/siquare/Test-generator/master/app/assets/images/example-1.png
 
-```
+Question Set Page
+====
+
+https://raw.githubusercontent.com/siquare/Test-generator/master/app/assets/images/example-2.png
+
+Test Page
+====
+
+https://raw.githubusercontent.com/siquare/Test-generator/master/app/assets/images/example-3.png
+
+Ruby version
+===
+
+
+```rb
 $ ruby -v
 ????
 ```
