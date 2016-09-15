@@ -1,24 +1,26 @@
 == README
 
+![eyecatch](https://raw.github.com/wiki/siquare/Test-generator/app/assets/images)
+
 === Ruby version
 
-```
+~~~~
 $ ruby -v
 ????
-```
+~~~~
 
 === Database creation
 
-```
+~~~~
 $ ./bin/rake db:create
-```
+~~~~
 
 === Database initialization
 
-```
+~~~~
 $ ./bin/rake db:migrate
 $ ./bin/rake db:seed
-```
+~~~~
 
 === How to run the test suite
 
